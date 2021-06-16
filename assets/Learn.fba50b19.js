@@ -1,0 +1,1 @@
+import{a6 as a,a7 as s,$ as d,f as e,a8 as t,g as n}from"./vendor.89b9ea5b.js";const o={data:()=>({}),components:{}},l=t();a("data-v-5d712442");const r={class:"learn"},c=n("aside",null,"123",-1),i=n("article",null,"213",-1);s();const p=l(((a,s,t,n,o,l)=>(d(),e("div",r,[c,i]))));o.render=p,o.__scopeId="data-v-5d712442";export default o;
