@@ -1,0 +1,1 @@
+import{_ as e}from"./main.365dd05e.js";import{ac as o,o as r,c as t}from"./vendor.8020b7fb.js";const n=o({data(){return{}},components:{}});function a(c,s,p,_,f,m){return r(),t("div",null,"1")}var l=e(n,[["render",a]]);export{l as default};
